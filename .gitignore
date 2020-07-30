@@ -69,3 +69,15 @@ samples2/
 datas/*.py
 
 .idea/
+
+# Environments
+.env
+.env.python
+.venv
+env/
+venv/
+env.bak/
+venv.bak/
+
+# Ignore tmp/
+tmp/

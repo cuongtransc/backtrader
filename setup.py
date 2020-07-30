@@ -41,7 +41,7 @@ gurl = 'https://github.com/mementum/' + pname
 gdurl = gurl + '/tarball/' + __version__
 
 setuptools.setup(
-    name=pname,
+    name=pname + '2',
 
     # Versions should comply with PEP440.  For a discussion on single-sourcing
     # the version across setup.py and the project code, see
